@@ -8,7 +8,8 @@
 
 [My cat Olive](https://imgur.com/jLDMbIz)
 
-I did that by writing '[My cat Olive](https://imgur.com/jLDMbIz)'
+:cat:
+:cat2:
 
 **My cat is the cutest cat in the world.**
 
