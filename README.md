@@ -1,9 +1,9 @@
 # week1
 
-##Haley Rohe 
+*Haley Rohe*
 
-*I like to cook
-*I love my cat
+1. I like to cook
+1. I love my cat
 
 
 [My cat Olive](https://imgur.com/jLDMbIz)
