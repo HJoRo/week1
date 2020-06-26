@@ -7,6 +7,7 @@
 
 
 [My cat Olive](https://imgur.com/jLDMbIz)
+![Olive](olive.jpg)
 
 :cat:
 :cat2:
